@@ -14,7 +14,7 @@ A **basic calculator** built using **HTML, CSS, and JavaScript** to perform simp
 3️⃣ View the result instantly!  
 
 ## 🔗 Live Demo  
-👉 [Click here to try the calculator](https://nagendrasriram.github.io/Simple-Calculator/)  
+👉 [Click here to try the calculator](https://nagendrasriram.github.io/First-cal-using-Js-/)  
 
 ## 📜 License  
 This project is **open-source**. Feel free to use and modify it!  
